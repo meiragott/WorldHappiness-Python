@@ -54,8 +54,10 @@ The primary data source is the World Happiness Report 2024, which includes:
 
 ## Visualizations
 
-To effectively communicate the results of the analysis, I created various visualizations:
-To effectively communicate the results of the analysis, I created various visualizations:
+Explore the interactive dashboard for the World Happiness Report 2024 on Tableau Public:
+
+[World Happiness Report 2024](https://public.tableau.com/app/profile/meira.gottlieb/viz/WorldHappinessReport2024_17217147646570/WorldHappiness?publish=yes)
+
 - **Scatterplots**: Showing relationships between key variables like GDP per capita and happiness scores.
 - **Heatmaps**: Displaying correlations between multiple variables.
 - **Regression Analysis**: Analyzing the linear relationships between variables.
